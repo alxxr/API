@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Persona>
+	<Nombre name="prueba">Juan</Nombre>
+	<Edad>30</Edad>
+	<Direccion>Calle Falsa 123</Direccion>
+</Persona>
